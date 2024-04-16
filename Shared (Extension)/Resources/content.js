@@ -1,4 +1,4 @@
-const allowedUrls = [
+const urls = [
   "https://news.ycombinator.com/",
   "https://www.reddit.com/",
   "https://lobste.rs/",
@@ -7,7 +7,7 @@ const allowedUrls = [
   "https://twitter.com/i/lists/1351120526220152839/",
 ]
 
-if (allowedUrls.some((url) => window.location.href.startsWith(url))) {
+if (urls.some((url) => window.location.href.startsWith(url))) {
   const now = new Date()
   const hours = now.getHours()
   const minutes = now.getMinutes()
