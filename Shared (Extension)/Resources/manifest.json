@@ -21,7 +21,14 @@
   "content_scripts": [
     {
       "js": ["content.js"],
-      "matches": ["*://news.ycombinator.com/*"]
+      "matches": [
+        "*://news.ycombinator.com/*",
+        "*://www.reddit.com/*",
+        "*://lobste.rs/*",
+        "*://github.com/dashboard-feed/*",
+        "*://twitter.com/home/*",
+        "*://twitter.com/i/lists/1351120526220152839/*"
+      ]
     }
   ],
 
