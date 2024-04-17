@@ -4,6 +4,8 @@
 
 Shown in action [here](https://twitter.com/nikitavoloboev/status/1780226797575065665).
 
+It will block a list of websites that you specify during a period of time. In my case, it will open [Things](https://culturedcode.com/things/) app instead and black the page out when accessing a website during `focus times`. You can program it to do something else and/or change the schedule/websites.
+
 ## Run
 
 Open project in Xcode.
