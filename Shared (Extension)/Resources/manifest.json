@@ -23,8 +23,12 @@
       "js": ["content.js"],
       "matches": [
         "*://news.ycombinator.com/*",
+        "*://hckrnews.com/*",
+        "*://reddit.com/*",
         "*://www.reddit.com/*",
         "*://lobste.rs/*",
+        "*://youtube.com/*",
+        "*://www.youtube.com/*",
         "*://github.com/dashboard-feed/*",
         "*://twitter.com/home/*",
         "*://twitter.com/i/lists/1351120526220152839/*"

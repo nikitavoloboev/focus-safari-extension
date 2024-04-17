@@ -1,13 +1,24 @@
 const urls = [
-  "https://news.ycombinator.com/",
-  "https://www.reddit.com/",
-  "https://lobste.rs/",
-  "https://github.com/dashboard-feed/",
-  "https://twitter.com/home/",
-  "https://twitter.com/i/lists/1351120526220152839/",
-]
+  "https://news.ycombinator.com",
+  "https://hckrnews.com",
+  "https://reddit.com",
+  "https://lobste.rs",
+  "https://youtube.com",
+  "https://github.com/dashboard-feed",
+  "https://twitter.com/home",
+  "https://twitter.com/i/lists/1351120526220152839",
+].map(
+  (url) =>
+    url
+      .replace(/\/$/, "") // Remove trailing slash if present
+      .replace(/^https?:\/\/(www\.)?/, "https://") // Normalize protocol and remove www if present
+)
 
-if (urls.some((url) => window.location.href.startsWith(url))) {
+const currentUrl = window.location.href
+  .replace(/\/$/, "") // Remove trailing slash if present
+  .replace(/^https?:\/\/(www\.)?/, "https://") // Normalize protocol and remove www if present
+
+if (urls.includes(currentUrl)) {
   const now = new Date()
   const hours = now.getHours()
   const minutes = now.getMinutes()
