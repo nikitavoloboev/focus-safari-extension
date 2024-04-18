@@ -1,0 +1,3 @@
+- local server for forced breaks
+- make it work for iOS too (in same way)
+- maybe there is a way to block apps on schedule too?
