@@ -22,16 +22,16 @@
     {
       "js": ["content.js"],
       "matches": [
-        "*://news.ycombinator.com/*",
-        "*://hckrnews.com/*",
-        "*://reddit.com/*",
-        "*://www.reddit.com/*",
-        "*://lobste.rs/*",
-        "*://youtube.com/*",
-        "*://www.youtube.com/*",
-        "*://github.com/dashboard-feed/*",
-        "*://twitter.com/home/*",
-        "*://twitter.com/i/lists/1351120526220152839/*"
+        "https://news.ycombinator.com/",
+        "https://hckrnews.com/",
+        "https://reddit.com/",
+        "https://www.reddit.com/",
+        "https://lobste.rs/",
+        "https://youtube.com/",
+        "https://www.youtube.com/",
+        "https://github.com/dashboard-feed",
+        "https://twitter.com/home",
+        "https://twitter.com/i/lists/1351120526220152839"
       ]
     }
   ],
