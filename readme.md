@@ -24,6 +24,6 @@ Can [open new issue](../../issues/new/choose) (search [existing ones](../../issu
 
 Can submit draft PRs with good ideas/fixes. You will get help along the way to make it merge ready.
 
-Ask for help if you're stuck. You will be onboarded and unblocked fast.
+Ask for help if you're stuck. You will be unblocked fast.
 
 [![Discord](https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=white&labelColor=black&color=black)](https://discord.com/invite/TVafwaD23d) [![X](https://img.shields.io/badge/nikitavoloboev-100000?logo=X&color=black)](https://x.com/nikitavoloboev) [![nikiv.dev](https://img.shields.io/badge/nikiv.dev-black)](https://nikiv.dev)
