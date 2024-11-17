@@ -20,7 +20,7 @@ Build extension in Xcode and activate it in Safari settings (give permissions to
 
 Always open to useful ideas or fixes in form of issues or PRs.
 
-Can [open new issue](../../issues/new/choose) (search [existing ones](../../issues) for duplicates first) or start discussion on [GitHub](../../discussions) or [Discord](https://discord.gg/bxtD8x6aNF).
+Can [open new issue](../../issues/new/choose) (search [existing ones](../../issues) for duplicates first) or start discussion on [GitHub](../../discussions) or [Discord](https://discord.com/invite/TVafwaD23d).
 
 Can submit draft PRs with good ideas/fixes. You will get help along the way to make it merge ready.
 
